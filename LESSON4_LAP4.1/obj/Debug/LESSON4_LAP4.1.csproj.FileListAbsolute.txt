@@ -1,0 +1,7 @@
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\bin\Debug\LESSON4_LAP4.1.exe.config
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\bin\Debug\LESSON4_LAP4.1.exe
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\bin\Debug\LESSON4_LAP4.1.pdb
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\obj\Debug\LESSON4_LAP4.1.csproj.AssemblyReference.cache
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\obj\Debug\LESSON4_LAP4.1.csproj.CoreCompileInputs.cache
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\obj\Debug\LESSON4_LAP4.1.exe
+D:\DEV\NETCODE & C#\lab\LESSON4_LAP4.1\obj\Debug\LESSON4_LAP4.1.pdb

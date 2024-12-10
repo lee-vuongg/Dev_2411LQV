@@ -1,0 +1,6 @@
+D:\DEV\NETCODE & C#\lab\LESSON4_LAB4.3\bin\Debug\LESSON4_LAB4.3.exe.config
+D:\DEV\NETCODE & C#\lab\LESSON4_LAB4.3\bin\Debug\LESSON4_LAB4.3.exe
+D:\DEV\NETCODE & C#\lab\LESSON4_LAB4.3\bin\Debug\LESSON4_LAB4.3.pdb
+D:\DEV\NETCODE & C#\lab\LESSON4_LAB4.3\obj\Debug\LESSON4_LAB4.3.csproj.CoreCompileInputs.cache
+D:\DEV\NETCODE & C#\lab\LESSON4_LAB4.3\obj\Debug\LESSON4_LAB4.3.exe
+D:\DEV\NETCODE & C#\lab\LESSON4_LAB4.3\obj\Debug\LESSON4_LAB4.3.pdb
