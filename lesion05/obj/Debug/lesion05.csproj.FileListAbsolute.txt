@@ -1,0 +1,7 @@
+D:\BaiThucHanh_Dev\lesion05\bin\Debug\lesion05.exe.config
+D:\BaiThucHanh_Dev\lesion05\bin\Debug\lesion05.exe
+D:\BaiThucHanh_Dev\lesion05\bin\Debug\lesion05.pdb
+D:\BaiThucHanh_Dev\lesion05\obj\Debug\lesion05.csproj.AssemblyReference.cache
+D:\BaiThucHanh_Dev\lesion05\obj\Debug\lesion05.csproj.CoreCompileInputs.cache
+D:\BaiThucHanh_Dev\lesion05\obj\Debug\lesion05.exe
+D:\BaiThucHanh_Dev\lesion05\obj\Debug\lesion05.pdb

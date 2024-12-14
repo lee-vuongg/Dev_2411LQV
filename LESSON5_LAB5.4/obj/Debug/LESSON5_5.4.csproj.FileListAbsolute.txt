@@ -1,0 +1,6 @@
+D:\DEV\NETCODE & C#\lab\LESSON5_5.4\bin\Debug\LESSON5_5.4.exe.config
+D:\DEV\NETCODE & C#\lab\LESSON5_5.4\bin\Debug\LESSON5_5.4.exe
+D:\DEV\NETCODE & C#\lab\LESSON5_5.4\bin\Debug\LESSON5_5.4.pdb
+D:\DEV\NETCODE & C#\lab\LESSON5_5.4\obj\Debug\LESSON5_5.4.csproj.CoreCompileInputs.cache
+D:\DEV\NETCODE & C#\lab\LESSON5_5.4\obj\Debug\LESSON5_5.4.exe
+D:\DEV\NETCODE & C#\lab\LESSON5_5.4\obj\Debug\LESSON5_5.4.pdb

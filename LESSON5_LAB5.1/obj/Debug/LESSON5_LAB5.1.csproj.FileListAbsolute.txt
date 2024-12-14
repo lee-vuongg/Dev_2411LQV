@@ -1,0 +1,7 @@
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\bin\Debug\LESSON5_LAB5.1.exe.config
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\bin\Debug\LESSON5_LAB5.1.exe
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\bin\Debug\LESSON5_LAB5.1.pdb
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\obj\Debug\LESSON5_LAB5.1.csproj.AssemblyReference.cache
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\obj\Debug\LESSON5_LAB5.1.csproj.CoreCompileInputs.cache
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\obj\Debug\LESSON5_LAB5.1.exe
+D:\DEV\NETCODE & C#\lab\LESSON5_LAB5.1\obj\Debug\LESSON5_LAB5.1.pdb
