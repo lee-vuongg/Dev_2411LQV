@@ -1,0 +1,7 @@
+D:\BaiThucHanh_Dev\lab6.3\bin\Debug\lab6.3.exe.config
+D:\BaiThucHanh_Dev\lab6.3\bin\Debug\lab6.3.exe
+D:\BaiThucHanh_Dev\lab6.3\bin\Debug\lab6.3.pdb
+D:\BaiThucHanh_Dev\lab6.3\obj\Debug\lab6.3.csproj.AssemblyReference.cache
+D:\BaiThucHanh_Dev\lab6.3\obj\Debug\lab6.3.csproj.CoreCompileInputs.cache
+D:\BaiThucHanh_Dev\lab6.3\obj\Debug\lab6.3.exe
+D:\BaiThucHanh_Dev\lab6.3\obj\Debug\lab6.3.pdb

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiThucHanh_Dev\\Lab6.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA844C-F914-452F-9CE3-E7751B297E77}|Lab6.2.csproj|d:\\baithuchanh_dev\\lab6.2\\daymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA844C-F914-452F-9CE3-E7751B297E77}|Lab6.2.csproj|solutionrelative:daymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DA844C-F914-452F-9CE3-E7751B297E77}|Lab6.2.csproj|d:\\baithuchanh_dev\\lab6.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DA844C-F914-452F-9CE3-E7751B297E77}|Lab6.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DayManager.cs",
+              "DocumentMoniker": "D:\\BaiThucHanh_Dev\\Lab6.2\\DayManager.cs",
+              "RelativeDocumentMoniker": "DayManager.cs",
+              "ToolTip": "D:\\BaiThucHanh_Dev\\Lab6.2\\DayManager.cs",
+              "RelativeToolTip": "DayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:37:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiThucHanh_Dev\\Lab6.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BaiThucHanh_Dev\\Lab6.2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:36:36.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
