@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesion07_Exception", "Lesion07_Exception.csproj", "{74BFACE8-4BAA-4764-86CE-943865728DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BFACE8-4BAA-4764-86CE-943865728DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BFACE8-4BAA-4764-86CE-943865728DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BFACE8-4BAA-4764-86CE-943865728DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BFACE8-4BAA-4764-86CE-943865728DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

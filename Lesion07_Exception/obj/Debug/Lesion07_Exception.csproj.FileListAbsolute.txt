@@ -1,0 +1,7 @@
+D:\BaiThucHanh_Dev\Lesion07_Exception\bin\Debug\Lesion07_Exception.exe.config
+D:\BaiThucHanh_Dev\Lesion07_Exception\bin\Debug\Lesion07_Exception.exe
+D:\BaiThucHanh_Dev\Lesion07_Exception\bin\Debug\Lesion07_Exception.pdb
+D:\BaiThucHanh_Dev\Lesion07_Exception\obj\Debug\Lesion07_Exception.csproj.AssemblyReference.cache
+D:\BaiThucHanh_Dev\Lesion07_Exception\obj\Debug\Lesion07_Exception.csproj.CoreCompileInputs.cache
+D:\BaiThucHanh_Dev\Lesion07_Exception\obj\Debug\Lesion07_Exception.exe
+D:\BaiThucHanh_Dev\Lesion07_Exception\obj\Debug\Lesion07_Exception.pdb

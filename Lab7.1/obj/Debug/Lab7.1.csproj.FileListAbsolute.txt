@@ -1,0 +1,7 @@
+D:\BaiThucHanh_Dev\Lab7.1\bin\Debug\Lab7.1.exe.config
+D:\BaiThucHanh_Dev\Lab7.1\bin\Debug\Lab7.1.exe
+D:\BaiThucHanh_Dev\Lab7.1\bin\Debug\Lab7.1.pdb
+D:\BaiThucHanh_Dev\Lab7.1\obj\Debug\Lab7.1.csproj.AssemblyReference.cache
+D:\BaiThucHanh_Dev\Lab7.1\obj\Debug\Lab7.1.csproj.CoreCompileInputs.cache
+D:\BaiThucHanh_Dev\Lab7.1\obj\Debug\Lab7.1.exe
+D:\BaiThucHanh_Dev\Lab7.1\obj\Debug\Lab7.1.pdb
